@@ -1,0 +1,9 @@
+2023-08-21 09:31:21,583 - WARNING - Warning Message
+2023-08-21 09:31:21,585 - INFO - Info message
+2023-08-21 09:31:21,586 - ERROR - Error Message
+2023-08-21 09:31:21,586 - CRITICAL - Critical Message
+2023-08-21 09:35:39,520 - DEBUG - Debug Message
+2023-08-21 09:35:39,522 - WARNING - Warning Message
+2023-08-21 09:35:39,524 - INFO - Info message
+2023-08-21 09:35:39,525 - ERROR - Error Message
+2023-08-21 09:35:39,526 - CRITICAL - Critical Message

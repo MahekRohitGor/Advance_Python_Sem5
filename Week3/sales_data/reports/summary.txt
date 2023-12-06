@@ -1,0 +1,4 @@
+Sales Summary Report: 
+Total Sales Count: 15
+Most Popular Product: Product A
+Average Sales Revenue: 957.33

@@ -1,0 +1,8 @@
+2023-08-26 15:14:45,872 - INFO - User registered successfully !
+2023-08-26 15:15:02,062 - ERROR - Some error occured while logging too many values to unpack (expected 2)
+2023-08-26 15:16:44,209 - ERROR - Some error occured while logging too many values to unpack (expected 2)
+2023-08-26 15:17:26,872 - ERROR - Some error occured while logging too many values to unpack (expected 2)
+2023-08-26 15:17:37,975 - ERROR - Some error occured while logging too many values to unpack (expected 2)
+2023-08-26 15:18:04,554 - ERROR - Some error occured while logging too many values to unpack (expected 2)
+2023-08-26 15:20:35,712 - INFO - User registered successfully !
+2023-08-26 15:20:43,117 - INFO - Login was successful!

@@ -1,0 +1,16 @@
+product_name,quantity,price,sale_date
+Product A,10,100,2023-08-01
+Product B,5,50,2023-08-01
+Product A,8,100,2023-08-02
+Product C,12,80,2023-08-02
+Product B,3,50,2023-08-03
+Product A,15,100,2023-08-04
+Product B,7,50,2023-08-04
+Product C,10,80,2023-08-05
+Product A,12,100,2023-08-05
+Product B,9,50,2023-08-06
+Product A,18,100,2023-08-06
+Product C,15,80,2023-08-07
+Product B,6,50,2023-08-07
+Product A,20,100,2023-08-08
+Product C,20,80,2023-08-08
